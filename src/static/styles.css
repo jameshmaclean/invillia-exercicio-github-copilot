@@ -78,6 +78,30 @@ section h3 {
   color: #1a237e;
 }
 
+/* New styles for participant list */
+.activity-card .participants {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f1f8e9;
+}
+
+.activity-card .participants h5 {
+  margin-bottom: 8px;
+  color: #2e7d32;
+}
+
+.activity-card .participants ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.activity-card .participants ul li {
+  margin-bottom: 5px;
+  color: #333;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
